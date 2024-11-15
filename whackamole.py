@@ -49,11 +49,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#position = event.pos
-                    #position = (x//20,y/16)
-                    #logic for when mole is clicked
-
-                    #screen.fill("light green")
-                    #draw_grid(screen)
-                    #screen.blit(mole_image, mole_image.get_rect(topleft=(10, 10)))
-                    #pygame.display.flip()
